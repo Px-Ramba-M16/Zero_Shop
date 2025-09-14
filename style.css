@@ -1,0 +1,33 @@
+html {
+        font-family: sans-serif;
+}
+
+body {
+        background: #7D86E9;
+}
+
+input {
+        border: 2px solid #000;
+        background: #fff;
+        border-radius: 5px;
+        height: 30px;
+        width: 200px;
+        
+}
+
+input:focus {
+        outline: none;
+        box-shadow: none;
+        border: 2px solid #979797;
+}
+
+#Random{
+        display: flex;
+        background: #fff;
+        border: none;
+        border-radius: 5px;
+        height: 30px;
+        width: 200px;
+        box-shadow: 0 0 10px #000;
+        text-align: center;
+}
